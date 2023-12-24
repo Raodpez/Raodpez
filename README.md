@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Raciel</h1>
-<h3 align="center">A apasionado desarrollador frontend de Cuba</h3>
+<h3 align="center">A passionate frontend developer from Cuba</h3>
 
 - 💬 I have knowledge of **Game and Web Development**
 
